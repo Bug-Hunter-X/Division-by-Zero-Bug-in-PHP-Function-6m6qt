@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP: improper handling of division by zero. The `bug.php` file contains the erroneous function, while `bugSolution.php` provides the correct implementation.  The bug is that if either parameter is 0, it returns 0 rather than producing an error.
